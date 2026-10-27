@@ -1,29 +1,115 @@
-![Last Statement](/images/github-title.png?raw=true)
+# Last Statement - 100 Frases
 
-Last Statement is a macOS screensaver that displays the last statements of people executed by the State of Texas.
+A macOS screensaver featuring 100 historical figures, their famous
+quotes in Spanish, and their historical sources.
 
-## Screenshots
+Based on [Last Statement](https://github.com/amiantos/last-statement),
+originally created by Brad Root (@amiantos).
 
-![Last Statement Screenshots](/images/screenshots.png?raw=true)
+## Features
 
-## Downloads 
+- 100 historical figures and quotations
+- Quotes translated into Spanish
+- Historical source displayed below each quotation
+- Original animated names and transitions
+- Customizable background and text colors
+- Local JSON database
+- No internet connection required for quotations
+- ARM64 support for Apple Silicon
 
-- [Download Last Statement v1.0 for macOS 10.13+](https://s3.amazonaws.com/amiantos/last-statement-1.0.zip)
-- After download, double-click `Last Statement.saver` to install.
+## Categories
 
-## Development
+| Category | Quotes |
+|---|---:|
+| Science and Technology | 20 |
+| Philosophy and Thought | 20 |
+| Literature and Poetry | 20 |
+| Politics and History | 20 |
+| Art, Music and Exploration | 20 |
+| **Total** | **100** |
 
-1. `git clone https://github.com/amiantos/last-statement.git`
-2. Open `LastStatement.xcworkspace` in Xcode 11 or higher.
-3. You'll figure it out from here, I'm sure.
+## Screensaver Display
 
-## Data
+Each presentation includes:
 
-The collected last statements used in this screensaver can be [accessed freely](https://last-statement.s3.amazonaws.com/executions.json) for use in your own projects.
+1. Historical figure's name
+2. Famous quotation in Spanish
+3. Historical source or reference
 
-## Authors
-* Brad Root - [amiantos](https://github.com/amiantos)
+The original visual design and animations are preserved.
 
-## Credits
+## Building from Source
 
-* [Texas Department of Criminal Justice](https://www.tdcj.texas.gov/death_row/index.html)
+Requirements:
+
+- macOS
+- Xcode
+- Git
+
+Clone the repository:
+
+    git clone https://github.com/jfercalderon21/LastStatement-100Frases.git
+    cd LastStatement-100Frases
+
+Open `LastStatement.xcworkspace` in Xcode.
+
+Select the `Screensaver` scheme and build the Release configuration.
+
+Alternatively, compile from Terminal:
+
+    xcodebuild \
+      -workspace LastStatement.xcworkspace \
+      -scheme Screensaver \
+      -configuration Release \
+      -destination 'generic/platform=macOS' \
+      ARCHS=arm64 \
+      CODE_SIGNING_ALLOWED=NO \
+      build
+
+The resulting `.saver` bundle can be installed in:
+
+    ~/Library/Screen Savers/
+
+## Quotes Database
+
+The complete catalogue is stored in:
+
+    Frases/quotes.json
+
+Each entry contains:
+
+- `name`: Historical figure
+- `quote`: Quotation in Spanish
+- `source`: Historical or bibliographical reference
+- `category`: Knowledge category
+
+The screensaver uses an embedded copy of this catalogue
+named `executions.json` to preserve compatibility with
+the original Xcode project.
+
+## Source Verification
+
+The collection includes references to books, speeches,
+interviews, letters, and historical documents.
+
+Some quotations are translations or adaptations.
+Some attributions rely on secondary sources.
+
+The catalogue has not undergone a complete independent
+historical verification.
+
+## Original Project
+
+Original project:
+https://github.com/amiantos/last-statement
+
+Original author: Brad Root (@amiantos).
+
+This derivative project preserves the original Git history
+and acknowledges the original author.
+
+## License
+
+Mozilla Public License 2.0 (MPL-2.0).
+
+See the LICENSE file for details.
