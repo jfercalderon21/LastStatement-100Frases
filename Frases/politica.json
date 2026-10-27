@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Julio César",
+    "quote": "Vine, vi, vencí.",
+    "source": "Frase transmitida por Plutarco y Suetonio, siglo I-II",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Napoleón Bonaparte",
+    "quote": "Mi verdadera gloria no consiste en haber ganado cuarenta batallas; lo que vivirá eternamente es mi Código Civil.",
+    "source": "Memorial de Santa Elena, 1823",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "quote": "El gobierno del pueblo, por el pueblo y para el pueblo no desaparecerá de la Tierra.",
+    "source": "Discurso de Gettysburg, 1863",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Winston Churchill",
+    "quote": "Lucharemos en las playas, lucharemos en los lugares de desembarco, lucharemos en los campos y en las calles.",
+    "source": "Discurso ante la Cámara de los Comunes, 4-jun-1940",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "quote": "Mi vida es mi mensaje.",
+    "source": "Raj Ghat Samadhi Committee, Gobierno de India; atribución documentada",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Nelson Mandela",
+    "quote": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+    "source": "Discurso en Johannesburgo, 16-jul-2003",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "quote": "Tengo un sueño: que mis cuatro hijos vivan un día en una nación donde no sean juzgados por el color de su piel, sino por su carácter.",
+    "source": "Discurso Tengo un sueño, 28-ago-1963",
+    "category": "Política e historia"
+  },
+  {
+    "name": "John F. Kennedy",
+    "quote": "No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país.",
+    "source": "Discurso inaugural, 20-ene-1961",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Benito Juárez",
+    "quote": "Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz.",
+    "source": "Manifiesto a la nación, 15-jul-1867",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Simón Bolívar",
+    "quote": "Moral y luces son nuestras primeras necesidades.",
+    "source": "Discurso de Angostura, 15-feb-1819",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Thomas Jefferson",
+    "quote": "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales.",
+    "source": "Declaración de Independencia de Estados Unidos, 1776",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "quote": "A lo único que debemos temer es al miedo mismo.",
+    "source": "Primer discurso inaugural, 4-mar-1933",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Eleanor Roosevelt",
+    "quote": "¿Dónde comienzan los derechos humanos universales? En lugares pequeños, cerca de casa.",
+    "source": "Declaración ante la ONU, 27-mar-1958; cita documentada en fuentes secundarias",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "quote": "La dama no está dispuesta a dar marcha atrás.",
+    "source": "Conferencia del Partido Conservador, 10-oct-1980",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "quote": "Habla suavemente y lleva un gran garrote; llegarás lejos.",
+    "source": "Carta a Henry L. Sprague, 26-ene-1900",
+    "category": "Política e historia"
+  },
+  {
+    "name": "José Martí",
+    "quote": "Con todos, y para el bien de todos.",
+    "source": "Discurso en el Liceo Cubano de Tampa, 26-nov-1891",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Emiliano Zapata",
+    "quote": "La tierra, montes y aguas que hayan usurpado los hacendados, científicos o caciques entrarán en posesión de los pueblos o ciudadanos.",
+    "source": "Plan de Ayala, artículo sexto, 1911; extracto adaptado",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Francisco I. Madero",
+    "quote": "Sufragio efectivo. No reelección.",
+    "source": "Lema del movimiento antirreeleccionista, 1910",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Václav Havel",
+    "quote": "La verdad y el amor deben prevalecer sobre las mentiras y el odio.",
+    "source": "Revolución de Terciopelo, 1989",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Rosa Luxemburg",
+    "quote": "La libertad es siempre la libertad de quienes piensan diferente.",
+    "source": "La revolución rusa, manuscrito de 1918",
+    "category": "Política e historia"
+  }
+]

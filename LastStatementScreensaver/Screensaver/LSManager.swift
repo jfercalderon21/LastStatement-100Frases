@@ -78,18 +78,23 @@ final class LSManager {
         jsonDecoder.keyDecodingStrategy = .convertFromSnakeCase
         let jsonData = string.data(using: .utf8)
         guard let data = jsonData else { return [] }
-        let executions = try! jsonDecoder.decode([Deceased].self, from: data)
-        return executions
+        do {
+            let executions = try jsonDecoder.decode(
+                [Deceased].self,
+                from: data
+            )
+            print("100 Frases: registros cargados: \\(executions.count)")
+            return executions
+        } catch {
+            NSLog("100 Frases: ERROR al interpretar JSON: \\(error)")
+            return []
+        }
     }
 
     private func getExecutionsJSONString() -> String? {
-        if executionsJSON != "" {
-            return executionsJSON
-        } else if let embeddedExecutions = loader.getExecutionsStringFromLocal() {
-            return embeddedExecutions
-        } else {
-            return nil
-        }
+        // Leer exclusivamente el catalogo incluido en el salvapantallas.
+        // Ignorar cualquier cache de las declaraciones originales.
+        return loader.getExecutionsStringFromLocal()
     }
 
     private func updateLastSyncTime() {

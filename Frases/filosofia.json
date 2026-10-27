@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Sócrates",
+    "quote": "Una vida sin examen no merece ser vivida.",
+    "source": "Platón, Apología de Sócrates, 38a",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Platón",
+    "quote": "La necesidad es la madre de nuestra invención.",
+    "source": "La República, libro II, 369c",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Aristóteles",
+    "quote": "El ser humano es por naturaleza un animal político.",
+    "source": "Política, libro I, 1253a",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "René Descartes",
+    "quote": "Pienso, luego existo.",
+    "source": "Discurso del método, cuarta parte, 1637",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Immanuel Kant",
+    "quote": "¡Atrévete a saber! Ten el valor de servirte de tu propia razón.",
+    "source": "Respuesta a la pregunta: ¿Qué es la Ilustración?, 1784",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Friedrich Nietzsche",
+    "quote": "Sin música, la vida sería un error.",
+    "source": "Crepúsculo de los ídolos, 1889",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Confucio",
+    "quote": "Aprender sin reflexionar es inútil; reflexionar sin aprender es peligroso.",
+    "source": "Analectas, 2.15",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Lao-Tsé",
+    "quote": "El camino que puede expresarse con palabras no es el camino eterno.",
+    "source": "Tao Te Ching, capítulo 1",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Séneca",
+    "quote": "No es que tengamos poco tiempo, sino que perdemos mucho.",
+    "source": "De la brevedad de la vida, capítulo 1",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "quote": "No se nace mujer: se llega a serlo.",
+    "source": "El segundo sexo, 1949",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Marco Aurelio",
+    "quote": "Nuestra vida es lo que nuestros pensamientos hacen de ella.",
+    "source": "Meditaciones, libro IV",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Epicuro",
+    "quote": "La muerte no es nada para nosotros.",
+    "source": "Carta a Meneceo",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Baruch Spinoza",
+    "quote": "No ridiculizar, no lamentar, no detestar, sino comprender.",
+    "source": "Tratado político, capítulo I",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "John Locke",
+    "quote": "Supongamos que la mente es, como decimos, un papel en blanco, sin ninguna idea.",
+    "source": "Ensayo sobre el entendimiento humano, libro II, 1690",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "David Hume",
+    "quote": "La razón es, y solo debe ser, esclava de las pasiones.",
+    "source": "Tratado de la naturaleza humana, libro II, 1739",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "quote": "El hombre ha nacido libre y por todas partes se encuentra encadenado.",
+    "source": "El contrato social, libro I, 1762",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Voltaire",
+    "quote": "Debemos cultivar nuestro jardín.",
+    "source": "Cándido, capítulo XXX, 1759",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Hannah Arendt",
+    "quote": "El sentido de la política es la libertad.",
+    "source": "¿Qué es la política?, publicación póstuma",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "John Stuart Mill",
+    "quote": "Sobre sí mismo, sobre su propio cuerpo y espíritu, el individuo es soberano.",
+    "source": "Sobre la libertad, capítulo I, 1859",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Karl Marx",
+    "quote": "Los filósofos se han limitado a interpretar el mundo de distintos modos; de lo que se trata es de transformarlo.",
+    "source": "Tesis sobre Feuerbach, tesis XI, 1845",
+    "category": "Filosofía y pensamiento"
+  }
+]

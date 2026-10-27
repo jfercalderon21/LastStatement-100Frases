@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Albert Einstein",
+    "quote": "La imaginación es más importante que el conocimiento.",
+    "source": "Entrevista con George Sylvester Viereck, 1929",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Isaac Newton",
+    "quote": "Si he visto más lejos, es porque estoy sobre los hombros de gigantes.",
+    "source": "Carta a Robert Hooke, 1676",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Marie Curie",
+    "quote": "Solo vemos lo que queda por hacer.",
+    "source": "Carta a su hermano Józef, 1894",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Galileo Galilei",
+    "quote": "El universo está escrito en lenguaje matemático.",
+    "source": "Il Saggiatore, 1623",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Charles Darwin",
+    "quote": "De un comienzo tan simple han evolucionado infinitas formas bellísimas y maravillosas.",
+    "source": "El origen de las especies, 1859",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Nikola Tesla",
+    "quote": "El presente es suyo; el futuro, por el que realmente trabajé, es mío.",
+    "source": "Entrevista, 1927",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Ada Lovelace",
+    "quote": "La máquina analítica no tiene pretensiones de crear nada por sí misma.",
+    "source": "Notas sobre la máquina analítica, 1843",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Alan Turing",
+    "quote": "Solo podemos ver un poco del futuro, pero lo suficiente para advertir que hay mucho por hacer.",
+    "source": "Computing Machinery and Intelligence, 1950",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Carl Sagan",
+    "quote": "El cosmos es todo lo que es, fue o será alguna vez.",
+    "source": "Cosmos, 1980",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Stephen Hawking",
+    "quote": "Recuerda mirar hacia las estrellas y no hacia tus pies.",
+    "source": "Discurso por su 70 cumpleaños, 2012",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Richard Feynman",
+    "quote": "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica.",
+    "source": "The Character of Physical Law, 1964",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Max Planck",
+    "quote": "Una nueva verdad científica no triunfa convenciendo a sus adversarios.",
+    "source": "Autobiografía científica, 1949",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Louis Pasteur",
+    "quote": "En los campos de la observación, el azar favorece a las mentes preparadas.",
+    "source": "Conferencia en Lille, 1854",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Johannes Kepler",
+    "quote": "Medía los cielos; ahora mido las sombras de la Tierra.",
+    "source": "Epitafio atribuido a Kepler, 1630",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Michael Faraday",
+    "quote": "Nada es demasiado maravilloso para ser cierto si concuerda con las leyes de la naturaleza.",
+    "source": "Escritos científicos, siglo XIX",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Niels Bohr",
+    "quote": "Hay verdades profundas cuya afirmación contraria también contiene una verdad profunda.",
+    "source": "Discussion with Einstein on Epistemological Problems in Atomic Physics, 1949, p. 240",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Rosalind Franklin",
+    "quote": "La ciencia y la vida cotidiana no pueden ni deben estar separadas.",
+    "source": "Carta a su padre, 1940",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Grace Hopper",
+    "quote": "La frase más perjudicial del lenguaje es: Siempre lo hemos hecho así.",
+    "source": "Entrevista en Information Week, 9-mar-1987, p. 52",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "quote": "La web es más una creación social que una creación técnica.",
+    "source": "Weaving the Web, 1999",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Katherine Johnson",
+    "quote": "Me encantaba contar todo lo que podía contarse.",
+    "source": "Entrevistas biográficas",
+    "category": "Ciencia y tecnología"
+  }
+]

@@ -70,7 +70,7 @@ class LSScene: SKScene, LSManagerDelegate {
     private func showInformationDisplay() {
         guard let deceased = getNextDeceased() else { return }
 
-        let infoDuration = getEstimatedReadingTimeForString(deceased.lastStatement)
+        let infoDuration = getEstimatedReadingTimeForString(deceased.quote)
 
         // Create Intro Name Label Node
         let slidingNameLabel = SKLabelNode(text: deceased.getName())
@@ -140,22 +140,8 @@ class LSScene: SKScene, LSManagerDelegate {
         let nameXPosition: CGFloat = 0.0 + (nameLabel.frame.width / 2) + (frame.size.width / 8)
         nameLabel.position = CGPoint(x: nameXPosition, y: infoBaseYPosition)
 
-        // Info Display Execution Date
-        let executionDateLabel = SKLabelNode(text: "Executed \(deceased.getExecutionDateAsString())")
-        executionDateLabel.fontName = "Arial Italic"
-        executionDateLabel.fontSize = max(frame.size.height / 60, 6)
-        executionDateLabel.numberOfLines = 1
-        executionDateLabel.zPosition = 3
-        executionDateLabel.alpha = 0
-        executionDateLabel.fontColor = infoOverlayTextColor
-        addChild(executionDateLabel)
-
-        let executionDateXPosition = 0.0 + (executionDateLabel.frame.width / 2) + (frame.size.width / 8)
-        let executionDateYPosition = infoBaseYPosition - (executionDateLabel.frame.height * 1.65)
-        executionDateLabel.position = CGPoint(x: executionDateXPosition, y: executionDateYPosition)
-
         // Info Display Last Statement
-        let lastStatementLabel = SKLabelNode(text: deceased.lastStatement)
+        let lastStatementLabel = SKLabelNode(text: deceased.quote)
         lastStatementLabel.fontName = "Arial"
         lastStatementLabel.fontSize = max(frame.size.height / 50, 8)
         lastStatementLabel.lineBreakMode = .byWordWrapping
@@ -171,19 +157,40 @@ class LSScene: SKScene, LSManagerDelegate {
         }
 
         let lastStatmentXPosition = 0.0 + (lastStatementLabel.frame.width / 2) + (frame.size.width / 8)
-        let lastStatementYPosition = infoBaseYPosition - lastStatementLabel.frame.height - (executionDateLabel.frame.height * 1.5) - nameLabel.frame.height
+        let lastStatementYPosition = infoBaseYPosition - lastStatementLabel.frame.height - nameLabel.frame.height * 1.5
         lastStatementLabel.position = CGPoint(x: lastStatmentXPosition, y: lastStatementYPosition)
+
+        // Fuente documental de la cita
+        let sourceLabel = SKLabelNode(text: deceased.source)
+        sourceLabel.fontName = "Arial Italic"
+        sourceLabel.fontSize = max(frame.size.height / 65, 10)
+        sourceLabel.lineBreakMode = .byWordWrapping
+        sourceLabel.numberOfLines = 0
+        sourceLabel.preferredMaxLayoutWidth = frame.size.width * 0.75
+        sourceLabel.zPosition = 3
+        sourceLabel.alpha = 0
+        sourceLabel.fontColor = infoOverlayTextColor
+        sourceLabel.horizontalAlignmentMode = .left
+        sourceLabel.verticalAlignmentMode = .top
+
+        sourceLabel.position = CGPoint(
+            x: frame.size.width / 8,
+            y: lastStatementLabel.frame.minY - frame.size.height / 30
+        )
+
+        addChild(sourceLabel)
+
 
         // Animate
         lastStatementLabel.run(infoActionSequence)
         nameLabel.run(infoActionSequence)
-        executionDateLabel.run(infoActionSequence)
+        sourceLabel.run(infoActionSequence)
         backgroundNode.run(backgroundActionSequence)
 
         slidingNameLabel.run(nameActionSequence) {
             lastStatementLabel.removeFromParent()
             nameLabel.removeFromParent()
-            executionDateLabel.removeFromParent()
+            sourceLabel.removeFromParent()
             backgroundNode.removeFromParent()
             slidingNameLabel.removeFromParent()
             self.showInformationDisplayAfterDelay()
@@ -303,7 +310,7 @@ class LSScene: SKScene, LSManagerDelegate {
     fileprivate func getNextDeceased() -> Deceased? {
         if executions.count == 0 { return nil }
 
-        if currentExecutionIndex >= (executions.count - 1) {
+        if currentExecutionIndex >= executions.count {
             currentExecutionIndex = 0
         }
 

@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Albert Einstein",
+    "quote": "La imaginación es más importante que el conocimiento.",
+    "source": "Entrevista con George Sylvester Viereck, 1929",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Isaac Newton",
+    "quote": "Si he visto más lejos, es porque estoy sobre los hombros de gigantes.",
+    "source": "Carta a Robert Hooke, 1676",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Marie Curie",
+    "quote": "Solo vemos lo que queda por hacer.",
+    "source": "Carta a su hermano Józef, 1894",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Galileo Galilei",
+    "quote": "El universo está escrito en lenguaje matemático.",
+    "source": "Il Saggiatore, 1623",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Charles Darwin",
+    "quote": "De un comienzo tan simple han evolucionado infinitas formas bellísimas y maravillosas.",
+    "source": "El origen de las especies, 1859",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Nikola Tesla",
+    "quote": "El presente es suyo; el futuro, por el que realmente trabajé, es mío.",
+    "source": "Entrevista, 1927",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Ada Lovelace",
+    "quote": "La máquina analítica no tiene pretensiones de crear nada por sí misma.",
+    "source": "Notas sobre la máquina analítica, 1843",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Alan Turing",
+    "quote": "Solo podemos ver un poco del futuro, pero lo suficiente para advertir que hay mucho por hacer.",
+    "source": "Computing Machinery and Intelligence, 1950",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Carl Sagan",
+    "quote": "El cosmos es todo lo que es, fue o será alguna vez.",
+    "source": "Cosmos, 1980",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Stephen Hawking",
+    "quote": "Recuerda mirar hacia las estrellas y no hacia tus pies.",
+    "source": "Discurso por su 70 cumpleaños, 2012",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Richard Feynman",
+    "quote": "Creo que puedo decir con seguridad que nadie entiende la mecánica cuántica.",
+    "source": "The Character of Physical Law, 1964",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Max Planck",
+    "quote": "Una nueva verdad científica no triunfa convenciendo a sus adversarios.",
+    "source": "Autobiografía científica, 1949",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Louis Pasteur",
+    "quote": "En los campos de la observación, el azar favorece a las mentes preparadas.",
+    "source": "Conferencia en Lille, 1854",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Johannes Kepler",
+    "quote": "Medía los cielos; ahora mido las sombras de la Tierra.",
+    "source": "Epitafio atribuido a Kepler, 1630",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Michael Faraday",
+    "quote": "Nada es demasiado maravilloso para ser cierto si concuerda con las leyes de la naturaleza.",
+    "source": "Escritos científicos, siglo XIX",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Niels Bohr",
+    "quote": "Hay verdades profundas cuya afirmación contraria también contiene una verdad profunda.",
+    "source": "Discussion with Einstein on Epistemological Problems in Atomic Physics, 1949, p. 240",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Rosalind Franklin",
+    "quote": "La ciencia y la vida cotidiana no pueden ni deben estar separadas.",
+    "source": "Carta a su padre, 1940",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Grace Hopper",
+    "quote": "La frase más perjudicial del lenguaje es: Siempre lo hemos hecho así.",
+    "source": "Entrevista en Information Week, 9-mar-1987, p. 52",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "quote": "La web es más una creación social que una creación técnica.",
+    "source": "Weaving the Web, 1999",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Katherine Johnson",
+    "quote": "Me encantaba contar todo lo que podía contarse.",
+    "source": "Entrevistas biográficas",
+    "category": "Ciencia y tecnología"
+  },
+  {
+    "name": "Sócrates",
+    "quote": "Una vida sin examen no merece ser vivida.",
+    "source": "Platón, Apología de Sócrates, 38a",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Platón",
+    "quote": "La necesidad es la madre de nuestra invención.",
+    "source": "La República, libro II, 369c",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Aristóteles",
+    "quote": "El ser humano es por naturaleza un animal político.",
+    "source": "Política, libro I, 1253a",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "René Descartes",
+    "quote": "Pienso, luego existo.",
+    "source": "Discurso del método, cuarta parte, 1637",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Immanuel Kant",
+    "quote": "¡Atrévete a saber! Ten el valor de servirte de tu propia razón.",
+    "source": "Respuesta a la pregunta: ¿Qué es la Ilustración?, 1784",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Friedrich Nietzsche",
+    "quote": "Sin música, la vida sería un error.",
+    "source": "Crepúsculo de los ídolos, 1889",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Confucio",
+    "quote": "Aprender sin reflexionar es inútil; reflexionar sin aprender es peligroso.",
+    "source": "Analectas, 2.15",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Lao-Tsé",
+    "quote": "El camino que puede expresarse con palabras no es el camino eterno.",
+    "source": "Tao Te Ching, capítulo 1",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Séneca",
+    "quote": "No es que tengamos poco tiempo, sino que perdemos mucho.",
+    "source": "De la brevedad de la vida, capítulo 1",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Simone de Beauvoir",
+    "quote": "No se nace mujer: se llega a serlo.",
+    "source": "El segundo sexo, 1949",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Marco Aurelio",
+    "quote": "Nuestra vida es lo que nuestros pensamientos hacen de ella.",
+    "source": "Meditaciones, libro IV",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Epicuro",
+    "quote": "La muerte no es nada para nosotros.",
+    "source": "Carta a Meneceo",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Baruch Spinoza",
+    "quote": "No ridiculizar, no lamentar, no detestar, sino comprender.",
+    "source": "Tratado político, capítulo I",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "John Locke",
+    "quote": "Supongamos que la mente es, como decimos, un papel en blanco, sin ninguna idea.",
+    "source": "Ensayo sobre el entendimiento humano, libro II, 1690",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "David Hume",
+    "quote": "La razón es, y solo debe ser, esclava de las pasiones.",
+    "source": "Tratado de la naturaleza humana, libro II, 1739",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "quote": "El hombre ha nacido libre y por todas partes se encuentra encadenado.",
+    "source": "El contrato social, libro I, 1762",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Voltaire",
+    "quote": "Debemos cultivar nuestro jardín.",
+    "source": "Cándido, capítulo XXX, 1759",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Hannah Arendt",
+    "quote": "El sentido de la política es la libertad.",
+    "source": "¿Qué es la política?, publicación póstuma",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "John Stuart Mill",
+    "quote": "Sobre sí mismo, sobre su propio cuerpo y espíritu, el individuo es soberano.",
+    "source": "Sobre la libertad, capítulo I, 1859",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "Karl Marx",
+    "quote": "Los filósofos se han limitado a interpretar el mundo de distintos modos; de lo que se trata es de transformarlo.",
+    "source": "Tesis sobre Feuerbach, tesis XI, 1845",
+    "category": "Filosofía y pensamiento"
+  },
+  {
+    "name": "William Shakespeare",
+    "quote": "Ser o no ser, esa es la cuestión.",
+    "source": "Hamlet, acto III, escena I, 1603",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Miguel de Cervantes",
+    "quote": "La libertad, Sancho, es uno de los más preciosos dones que a los hombres dieron los cielos.",
+    "source": "Don Quijote de la Mancha, segunda parte, capítulo LVIII, 1615",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Oscar Wilde",
+    "quote": "La vida es algo demasiado importante como para hablar en serio de ella.",
+    "source": "El abanico de lady Windermere, acto I, 1892",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Franz Kafka",
+    "quote": "Un libro debe ser el hacha para el mar helado que llevamos dentro.",
+    "source": "Carta a Oskar Pollak, 1904",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Jorge Luis Borges",
+    "quote": "Yo, que me figuraba el Paraíso bajo la especie de una biblioteca.",
+    "source": "Poema de los dones, 1960",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "quote": "La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.",
+    "source": "Vivir para contarla, 2002",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Virginia Woolf",
+    "quote": "Una mujer debe tener dinero y una habitación propia si quiere escribir ficción.",
+    "source": "Una habitación propia, 1929",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "quote": "Lo esencial es invisible a los ojos.",
+    "source": "El principito, capítulo XXI, 1943",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Emily Dickinson",
+    "quote": "La esperanza es esa cosa con plumas que se posa en el alma.",
+    "source": "Poema 314, hacia 1861",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Walt Whitman",
+    "quote": "Soy inmenso, contengo multitudes.",
+    "source": "Canto a mí mismo, Hojas de hierba, 1855",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Dante Alighieri",
+    "quote": "A mitad del camino de nuestra vida me encontré en una selva oscura.",
+    "source": "Divina comedia, Infierno, canto I",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Johann Wolfgang von Goethe",
+    "quote": "Gris es toda teoría, y verde el árbol dorado de la vida.",
+    "source": "Fausto, primera parte, 1808",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Fiódor Dostoievski",
+    "quote": "Por encima de todo, no te mientas a ti mismo.",
+    "source": "Los hermanos Karamázov, 1880",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "León Tolstói",
+    "quote": "Todas las familias felices se parecen; cada familia infeliz lo es a su manera.",
+    "source": "Ana Karénina, 1878",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Jane Austen",
+    "quote": "Es una verdad universalmente reconocida que un hombre soltero en posesión de una gran fortuna necesita esposa.",
+    "source": "Orgullo y prejuicio, capítulo I, 1813",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Mary Shelley",
+    "quote": "Aprende de mí lo peligroso que puede ser adquirir conocimiento.",
+    "source": "Frankenstein, capítulo IV, 1818",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "George Orwell",
+    "quote": "Todos los animales son iguales, pero algunos son más iguales que otros.",
+    "source": "Rebelión en la granja, capítulo X, 1945",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Octavio Paz",
+    "quote": "Para que pueda ser he de ser otro.",
+    "source": "Piedra de sol, 1957",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Sor Juana Inés de la Cruz",
+    "quote": "Hombres necios que acusáis a la mujer sin razón.",
+    "source": "Redondillas, siglo XVII",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Fernando Pessoa",
+    "quote": "No soy nada. Nunca seré nada. No puedo querer ser nada.",
+    "source": "Tabaquería, Álvaro de Campos, 1928",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Julio César",
+    "quote": "Vine, vi, vencí.",
+    "source": "Frase transmitida por Plutarco y Suetonio, siglo I-II",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Napoleón Bonaparte",
+    "quote": "Mi verdadera gloria no consiste en haber ganado cuarenta batallas; lo que vivirá eternamente es mi Código Civil.",
+    "source": "Memorial de Santa Elena, 1823",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Abraham Lincoln",
+    "quote": "El gobierno del pueblo, por el pueblo y para el pueblo no desaparecerá de la Tierra.",
+    "source": "Discurso de Gettysburg, 1863",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Winston Churchill",
+    "quote": "Lucharemos en las playas, lucharemos en los lugares de desembarco, lucharemos en los campos y en las calles.",
+    "source": "Discurso ante la Cámara de los Comunes, 4-jun-1940",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Mahatma Gandhi",
+    "quote": "Mi vida es mi mensaje.",
+    "source": "Raj Ghat Samadhi Committee, Gobierno de India; atribución documentada",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Nelson Mandela",
+    "quote": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+    "source": "Discurso en Johannesburgo, 16-jul-2003",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "quote": "Tengo un sueño: que mis cuatro hijos vivan un día en una nación donde no sean juzgados por el color de su piel, sino por su carácter.",
+    "source": "Discurso Tengo un sueño, 28-ago-1963",
+    "category": "Política e historia"
+  },
+  {
+    "name": "John F. Kennedy",
+    "quote": "No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país.",
+    "source": "Discurso inaugural, 20-ene-1961",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Benito Juárez",
+    "quote": "Entre los individuos, como entre las naciones, el respeto al derecho ajeno es la paz.",
+    "source": "Manifiesto a la nación, 15-jul-1867",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Simón Bolívar",
+    "quote": "Moral y luces son nuestras primeras necesidades.",
+    "source": "Discurso de Angostura, 15-feb-1819",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Thomas Jefferson",
+    "quote": "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales.",
+    "source": "Declaración de Independencia de Estados Unidos, 1776",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Franklin D. Roosevelt",
+    "quote": "A lo único que debemos temer es al miedo mismo.",
+    "source": "Primer discurso inaugural, 4-mar-1933",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Eleanor Roosevelt",
+    "quote": "¿Dónde comienzan los derechos humanos universales? En lugares pequeños, cerca de casa.",
+    "source": "Declaración ante la ONU, 27-mar-1958; cita documentada en fuentes secundarias",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Margaret Thatcher",
+    "quote": "La dama no está dispuesta a dar marcha atrás.",
+    "source": "Conferencia del Partido Conservador, 10-oct-1980",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Theodore Roosevelt",
+    "quote": "Habla suavemente y lleva un gran garrote; llegarás lejos.",
+    "source": "Carta a Henry L. Sprague, 26-ene-1900",
+    "category": "Política e historia"
+  },
+  {
+    "name": "José Martí",
+    "quote": "Con todos, y para el bien de todos.",
+    "source": "Discurso en el Liceo Cubano de Tampa, 26-nov-1891",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Emiliano Zapata",
+    "quote": "La tierra, montes y aguas que hayan usurpado los hacendados, científicos o caciques entrarán en posesión de los pueblos o ciudadanos.",
+    "source": "Plan de Ayala, artículo sexto, 1911; extracto adaptado",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Francisco I. Madero",
+    "quote": "Sufragio efectivo. No reelección.",
+    "source": "Lema del movimiento antirreeleccionista, 1910",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Václav Havel",
+    "quote": "La verdad y el amor deben prevalecer sobre las mentiras y el odio.",
+    "source": "Revolución de Terciopelo, 1989",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Rosa Luxemburg",
+    "quote": "La libertad es siempre la libertad de quienes piensan diferente.",
+    "source": "La revolución rusa, manuscrito de 1918",
+    "category": "Política e historia"
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "quote": "La experiencia es la madre de toda certeza.",
+    "source": "Cuadernos de Leonardo da Vinci",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Miguel Ángel",
+    "quote": "El mejor artista no tiene concepto alguno que un solo bloque de mármol no contenga en sí.",
+    "source": "Rime, soneto 151, siglo XVI; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Pablo Picasso",
+    "quote": "El arte es una mentira que nos hace comprender la verdad.",
+    "source": "Entrevista con Marius de Zayas, The Arts, 1923",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Vincent van Gogh",
+    "quote": "La vista de las estrellas me hace soñar.",
+    "source": "Carta a Theo van Gogh, n.º 638, 1888; extracto",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Frida Kahlo",
+    "quote": "Pies, ¿para qué los quiero si tengo alas para volar?",
+    "source": "Diario de Frida Kahlo, 1953",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "quote": "Del corazón, que llegue al corazón.",
+    "source": "Inscripción en la partitura de Missa solemnis, 1823",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "quote": "La música nunca debe ofender al oído, sino que debe agradar.",
+    "source": "Carta a Leopold Mozart, 26-sep-1781; traducción abreviada",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Amelia Earhart",
+    "quote": "Quizá la mayor alegría de volar sea la magnificencia de la vista.",
+    "source": "The Fun of It, 1932, p. 46; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Neil Armstrong",
+    "quote": "Un pequeño paso para un hombre, un gran salto para la humanidad.",
+    "source": "Transmisión del Apolo 11, 20-jul-1969; versión habitual",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Salvador Dalí",
+    "quote": "No temas a la perfección: nunca la alcanzarás.",
+    "source": "50 secretos mágicos para pintar, 1948; revisar edición",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Claude Monet",
+    "quote": "Quiero pintar el aire en el que se encuentran el puente, la casa y el barco.",
+    "source": "Entrevista, 1895; citada en Monet in the Twentieth Century, 1999",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Edgar Degas",
+    "quote": "El arte no es lo que ves, sino lo que haces ver a los demás.",
+    "source": "Denver Art Museum, 20 Quotes from Edgar Degas, 2018; fuente secundaria",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Auguste Rodin",
+    "quote": "Lo principal es conmoverse, amar, esperar, temblar, vivir.",
+    "source": "Museum of Modern Art (MoMA), Auguste Rodin; cita recogida por el museo",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Henri Matisse",
+    "quote": "La creatividad requiere valentía.",
+    "source": "Artist to Artist: Inspiration and Advice, 1998, p. 62; fuente secundaria",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Georgia O'Keeffe",
+    "quote": "Nadie ve realmente una flor; es tan pequeña que lleva tiempo.",
+    "source": "Escritos y declaraciones de Georgia O'Keeffe",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Ansel Adams",
+    "quote": "No tomas una fotografía, la haces.",
+    "source": "Recopilación de citas, 1997; atribuida a Time, 31-dic-1984",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Martha Graham",
+    "quote": "El movimiento nunca miente.",
+    "source": "Blood Memory: An Autobiography, 1991",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Charles Chaplin",
+    "quote": "Pensamos demasiado y sentimos muy poco.",
+    "source": "El gran dictador, discurso final, 1940",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Yuri Gagarin",
+    "quote": "Veo la Tierra. Es tan hermosa.",
+    "source": "Comunicaciones de Vostok 1, 12-abr-1961; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Cristóbal Colón",
+    "quote": "Las tierras de ella son altas, y en ella muy muchas sierras y montañas altísimas.",
+    "source": "Carta a Luis de Santángel, 1493",
+    "category": "Arte, música y exploración"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Leonardo da Vinci",
+    "quote": "La experiencia es la madre de toda certeza.",
+    "source": "Cuadernos de Leonardo da Vinci",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Miguel Ángel",
+    "quote": "El mejor artista no tiene concepto alguno que un solo bloque de mármol no contenga en sí.",
+    "source": "Rime, soneto 151, siglo XVI; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Pablo Picasso",
+    "quote": "El arte es una mentira que nos hace comprender la verdad.",
+    "source": "Entrevista con Marius de Zayas, The Arts, 1923",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Vincent van Gogh",
+    "quote": "La vista de las estrellas me hace soñar.",
+    "source": "Carta a Theo van Gogh, n.º 638, 1888; extracto",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Frida Kahlo",
+    "quote": "Pies, ¿para qué los quiero si tengo alas para volar?",
+    "source": "Diario de Frida Kahlo, 1953",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Ludwig van Beethoven",
+    "quote": "Del corazón, que llegue al corazón.",
+    "source": "Inscripción en la partitura de Missa solemnis, 1823",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Wolfgang Amadeus Mozart",
+    "quote": "La música nunca debe ofender al oído, sino que debe agradar.",
+    "source": "Carta a Leopold Mozart, 26-sep-1781; traducción abreviada",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Amelia Earhart",
+    "quote": "Quizá la mayor alegría de volar sea la magnificencia de la vista.",
+    "source": "The Fun of It, 1932, p. 46; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Neil Armstrong",
+    "quote": "Un pequeño paso para un hombre, un gran salto para la humanidad.",
+    "source": "Transmisión del Apolo 11, 20-jul-1969; versión habitual",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Salvador Dalí",
+    "quote": "No temas a la perfección: nunca la alcanzarás.",
+    "source": "50 secretos mágicos para pintar, 1948; revisar edición",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Claude Monet",
+    "quote": "Quiero pintar el aire en el que se encuentran el puente, la casa y el barco.",
+    "source": "Entrevista, 1895; citada en Monet in the Twentieth Century, 1999",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Edgar Degas",
+    "quote": "El arte no es lo que ves, sino lo que haces ver a los demás.",
+    "source": "Denver Art Museum, 20 Quotes from Edgar Degas, 2018; fuente secundaria",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Auguste Rodin",
+    "quote": "Lo principal es conmoverse, amar, esperar, temblar, vivir.",
+    "source": "Museum of Modern Art (MoMA), Auguste Rodin; cita recogida por el museo",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Henri Matisse",
+    "quote": "La creatividad requiere valentía.",
+    "source": "Artist to Artist: Inspiration and Advice, 1998, p. 62; fuente secundaria",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Georgia O'Keeffe",
+    "quote": "Nadie ve realmente una flor; es tan pequeña que lleva tiempo.",
+    "source": "Escritos y declaraciones de Georgia O'Keeffe",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Ansel Adams",
+    "quote": "No tomas una fotografía, la haces.",
+    "source": "Recopilación de citas, 1997; atribuida a Time, 31-dic-1984",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Martha Graham",
+    "quote": "El movimiento nunca miente.",
+    "source": "Blood Memory: An Autobiography, 1991",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Charles Chaplin",
+    "quote": "Pensamos demasiado y sentimos muy poco.",
+    "source": "El gran dictador, discurso final, 1940",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Yuri Gagarin",
+    "quote": "Veo la Tierra. Es tan hermosa.",
+    "source": "Comunicaciones de Vostok 1, 12-abr-1961; traducción",
+    "category": "Arte, música y exploración"
+  },
+  {
+    "name": "Cristóbal Colón",
+    "quote": "Las tierras de ella son altas, y en ella muy muchas sierras y montañas altísimas.",
+    "source": "Carta a Luis de Santángel, 1493",
+    "category": "Arte, música y exploración"
+  }
+]

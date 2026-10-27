@@ -1,0 +1,122 @@
+[
+  {
+    "name": "William Shakespeare",
+    "quote": "Ser o no ser, esa es la cuestión.",
+    "source": "Hamlet, acto III, escena I, 1603",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Miguel de Cervantes",
+    "quote": "La libertad, Sancho, es uno de los más preciosos dones que a los hombres dieron los cielos.",
+    "source": "Don Quijote de la Mancha, segunda parte, capítulo LVIII, 1615",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Oscar Wilde",
+    "quote": "La vida es algo demasiado importante como para hablar en serio de ella.",
+    "source": "El abanico de lady Windermere, acto I, 1892",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Franz Kafka",
+    "quote": "Un libro debe ser el hacha para el mar helado que llevamos dentro.",
+    "source": "Carta a Oskar Pollak, 1904",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Jorge Luis Borges",
+    "quote": "Yo, que me figuraba el Paraíso bajo la especie de una biblioteca.",
+    "source": "Poema de los dones, 1960",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "quote": "La vida no es la que uno vivió, sino la que uno recuerda y cómo la recuerda para contarla.",
+    "source": "Vivir para contarla, 2002",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Virginia Woolf",
+    "quote": "Una mujer debe tener dinero y una habitación propia si quiere escribir ficción.",
+    "source": "Una habitación propia, 1929",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "quote": "Lo esencial es invisible a los ojos.",
+    "source": "El principito, capítulo XXI, 1943",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Emily Dickinson",
+    "quote": "La esperanza es esa cosa con plumas que se posa en el alma.",
+    "source": "Poema 314, hacia 1861",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Walt Whitman",
+    "quote": "Soy inmenso, contengo multitudes.",
+    "source": "Canto a mí mismo, Hojas de hierba, 1855",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Dante Alighieri",
+    "quote": "A mitad del camino de nuestra vida me encontré en una selva oscura.",
+    "source": "Divina comedia, Infierno, canto I",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Johann Wolfgang von Goethe",
+    "quote": "Gris es toda teoría, y verde el árbol dorado de la vida.",
+    "source": "Fausto, primera parte, 1808",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Fiódor Dostoievski",
+    "quote": "Por encima de todo, no te mientas a ti mismo.",
+    "source": "Los hermanos Karamázov, 1880",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "León Tolstói",
+    "quote": "Todas las familias felices se parecen; cada familia infeliz lo es a su manera.",
+    "source": "Ana Karénina, 1878",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Jane Austen",
+    "quote": "Es una verdad universalmente reconocida que un hombre soltero en posesión de una gran fortuna necesita esposa.",
+    "source": "Orgullo y prejuicio, capítulo I, 1813",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Mary Shelley",
+    "quote": "Aprende de mí lo peligroso que puede ser adquirir conocimiento.",
+    "source": "Frankenstein, capítulo IV, 1818",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "George Orwell",
+    "quote": "Todos los animales son iguales, pero algunos son más iguales que otros.",
+    "source": "Rebelión en la granja, capítulo X, 1945",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Octavio Paz",
+    "quote": "Para que pueda ser he de ser otro.",
+    "source": "Piedra de sol, 1957",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Sor Juana Inés de la Cruz",
+    "quote": "Hombres necios que acusáis a la mujer sin razón.",
+    "source": "Redondillas, siglo XVII",
+    "category": "Literatura y poesía"
+  },
+  {
+    "name": "Fernando Pessoa",
+    "quote": "No soy nada. Nunca seré nada. No puedo querer ser nada.",
+    "source": "Tabaquería, Álvaro de Campos, 1928",
+    "category": "Literatura y poesía"
+  }
+]
